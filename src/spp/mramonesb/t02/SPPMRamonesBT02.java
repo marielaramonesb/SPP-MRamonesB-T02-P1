@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class SPPMRamonesBT02 {
 
-    /**
+    /**MARIELA
      * @param args the command line arguments
      */
     public static void main(String[] args) {
