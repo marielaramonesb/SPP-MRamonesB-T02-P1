@@ -1,4 +1,4 @@
-// Mariela Ramones Balvoa- A01411449- IMT
+// Mariela Ramones Balvoa- A01411449- IMT.
 package spp.mramonesb.t02;
 import java.util.Scanner;
 /**
